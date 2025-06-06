@@ -33513,7 +33513,7 @@ return new A.Gz(A.mW(A.a79(new A.i0(r)).gus().rN(null)))}}
 A.Gz.prototype={
 X(a){return new A.ny(new A.a2j(this),null)}}
 A.a2j.prototype={
-$2(a,b){var s,r,q,p,o,n=null,m=Math.min(300,b.b-20),l=A.hr(A.og("I am sorry for ruining your impression on me. Will you forgive me, and go on a date with me tomorrow, Zefira?",A.f5(n,n,B.be,n,n,n,n,n,n,n,n,20,n,n,B.ci,n,n,!0,n,n,n,n,n,n,n,n),B.bU),n,m),k=A.hr(n,20,n)
+$2(a,b){var s,r,q,p,o,n=null,m=Math.min(300,b.b-20),l=A.hr(A.og("If you open this, that means, there is a little space for me in your heart 😁 (or maybe you just gabut.). Will you be my friend Zefira? I promise I will not expect more ✌️",A.f5(n,n,B.be,n,n,n,n,n,n,n,n,20,n,n,B.ci,n,n,!0,n,n,n,n,n,n,n,n),B.bU),n,m),k=A.hr(n,20,n)
 m=A.ac0("assets/animation.json",m,m)
 s=A.hr(n,20,n)
 r=A.OG(n,n,B.dQ,n,n,n,n,n,n,n,n,new A.U(200,40),B.j,n,n,new A.cp(A.pQ(10),B.ay),B.c8,n,n,n)
